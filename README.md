@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project is a **from-scratch implementation of ARIES-style database recovery** in Java. It implements **write-ahead logging (WAL)**, **fuzzy checkpointing**, **savepoints**, and **ACID-compliant crash recovery** using the full **Analysis → Redo → Undo** pipeline.
+This project is a from-scratch implementation of ARIES-style database recovery in Java. It implements write-ahead logging (WAL), fuzzy checkpointing, savepoints, and ACID-compliant crash recovery using the full Analysis → Redo → Undo pipeline.
 
-The implementation closely follows the ARIES algorithm and is designed to be **correct, efficient, and test-driven**, passing an extensive suite of recovery tests.
+The implementation closely follows the ARIES algorithm and is designed to be correct, efficient, and test-driven, passing an extensive suite of recovery tests.
 
-This project demonstrates my ability to reason about **low-level systems behavior**, **crash consistency**, and **state reconstruction**, and to translate formal algorithms into robust, production-quality code.
+This project demonstrates my ability to reason about low-level systems behavior, crash consistency, and state reconstruction and to translate formal algorithms into robust, production-quality code.
 
 
 ## Key Features
